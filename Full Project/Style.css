@@ -1,0 +1,40 @@
+:root{
+    --color-primary:#00d9ff;
+    --color-secondary:#2584ff;
+    --color-accent:#ec3000;
+    --color-header:#1b0760;
+    --color-body:#9d99ae;
+}
+body{
+    font: size 62.5%;
+    font-family: "Inter",sans-serif;
+    background-color: yellow;
+}
+
+
+h1,
+h2,
+h3{
+    color:#1b0760;
+}
+
+h1{
+    font-size: 5.75rem;
+}
+h2{
+    font-size:3.75rem;
+}
+
+
+h3{
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+}
+
+p{
+    font-size:2 rem;
+    margin-top: 0;
+    color : var(--color-body);
+}
+
+
